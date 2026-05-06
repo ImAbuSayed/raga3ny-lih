@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/raga3ny-lih/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Official Music Licensing for Raga3ny Lih](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Request Licensing for Raga3ny Lih](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
