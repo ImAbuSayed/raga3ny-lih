@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Raga3ny Lih
+
+This log tracks the cryptographic history and versioning for the song **Raga3ny Lih** (raga3ny-lih).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T01:51:30.653632 | `v1` | `305347c4df449f3c00e6949da6c426784427a4f73e552748c5fc153390cf9716` | `3c06958e69bb1d9a4d25c78f9cfa35df847574ed57cf4d4c3ff995946e8a4e51` | `2026-05-09_raga3ny-lih-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
